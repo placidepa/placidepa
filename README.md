@@ -74,6 +74,10 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=placidepa&layout=compact&theme=tokyonight)
 
+##  GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=placidepa&theme=tokyonight)
+
 ---
 
 ## Technical Interests
