@@ -68,6 +68,12 @@ My work focuses on combining **Artificial Intelligence, Embedded Systems, IoT, s
 
 I believe in **engineering solutions that are affordable, reliable, and locally deployable**, especially for developing regions.
 
+##  GitHub Stats
+
+![Placide's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=placidepa&layout=compact&theme=tokyonight)
+
 ---
 
 ## Technical Interests
