@@ -1,52 +1,56 @@
-# 👋 Hello, I'm Placide Dushimerugaba
+# Hello, I'm Eng. Placide Dushimerugaba
 
-🚀 **Electronics, Telecommunications & Applied AI Engineer**  
-🔬 Building intelligent, low-cost, high-impact engineering systems for Africa  
-📡 Focused on AI, Embedded Systems, Signal Processing, and Telecommunications  
+ **Electronics and Telecommunications | Software in Modern Radar Technology | UAVs Systems Researcher | Machine Learning Engineer applications in airspace**  
+Building intelligent, low-cost, high-impact engineering systems for Africa  
+Focused on AI, Embedded Systems, Signal Processing, and Telecommunications  
 
 ---
 
-## 🌍 About Me
+## About Me
 
 I am an Electronics and Telecommunications Engineer passionate about designing **intelligent systems that solve real-world infrastructure challenges**.  
 
-My work focuses on combining **Artificial Intelligence, Embedded Systems, IoT, and Telecommunications** to develop scalable technologies for:
+My work focuses on combining **Artificial Intelligence, Embedded Systems, IoT, software for Modern Radar Technology, and Telecommunications** to develop scalable technologies for:
 
 - Airspace surveillance  
 - Telecommunications intelligence  
 - Infrastructure monitoring  
 - Cybersecurity and anomaly detection  
-- Smart and autonomous systems  
+- Smart and autonomous systems
+- Software Engineering in Modern Radar Technology
+- UAVs systems operating in both GPS-allowed and GPS-denied Environments
+- Mathematician specifically in above fields 
 
 I believe in **engineering solutions that are affordable, reliable, and locally deployable**, especially for developing regions.
 
 ---
 
-## 🧠 Technical Interests
+## Technical Interests
 
-- Artificial Intelligence & Machine Learning  
-- Embedded Systems & Edge Computing  
+- Artificial Intelligence and Machine Learning  
+- Embedded Systems and Edge Computing  
 - Software Defined Radio (SDR)  
 - Signal Processing (DSP)  
 - Telecommunications Systems  
 - Infrastructure Security  
-- IoT & Cloud Integration  
+- IoT and Cloud Integration  
 - Autonomous Monitoring Systems  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 - Python  
 - C  
 - C++  
 - Java  
 - MATLAB  
-- SQL  
+- SQL
+- Register-level Programming 
 
-### 🤖 AI & Machine Learning
+### AI and Machine Learning
 
 - PyTorch  
 - TensorFlow  
@@ -56,7 +60,7 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 - Deep Learning  
 - Time-Series Forecasting  
 
-### 🔌 Embedded Systems & Hardware
+### Embedded Systems & Hardware
 
 - Arduino  
 - Raspberry Pi  
@@ -67,7 +71,7 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 - Optical Sensors  
 - Software Defined Radio (SDR)
 
-### 📡 Telecommunications & Networking
+### Telecommunications and Networking
 
 - Digital Communications  
 - Signal Processing (DSP)  
@@ -77,7 +81,7 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 - LTE/5G Network Analysis  
 - RF Signal Monitoring  
 
-### ☁️ Cloud & IoT
+### Cloud and IoT
 
 - AWS IoT Core  
 - Google Cloud Functions  
@@ -85,7 +89,7 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 - Real-time Telemetry  
 - Edge Computing Systems  
 
-### 📊 Data & Visualization
+###  Data and Visualization
 
 - NumPy  
 - Pandas  
@@ -94,9 +98,9 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 - Streamlit  
 - Tkinter  
 
-### 🔧 Tools & Platforms
+###  Tools and Platforms
 
-- Git & GitHub  
+- Git and GitHub  
 - Linux  
 - Wireshark  
 - Grafana  
@@ -104,9 +108,9 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📡 AI-Based Airspace Surveillance System
+###  AI-Based Airspace Surveillance System
 Designed a multi-sensor drone detection and classification system using AI and SDR technology.
 
 **Key Features:**
@@ -120,7 +124,7 @@ Demonstrated how a **$400 SDR system can replace a $25,000 RF sensor**.
 
 ---
 
-### 🔥 Smart Fire Detection System (Edge AI)
+###  Smart Fire Detection System (Edge AI)
 Developed a real-time fire and smoke detection system using deep learning and IoT.
 
 **Technologies:**  
@@ -134,7 +138,7 @@ Python • CNN • OpenCV • Raspberry Pi • IoT
 
 ---
 
-### 🌐 AI-Powered Network Anomaly Detection
+###  AI-Powered Network Anomaly Detection
 Built a machine learning system to detect abnormal behavior in network traffic.
 
 **Technologies:**  
@@ -147,7 +151,7 @@ Python • LSTM • GRU • Telemetry Pipelines
 
 ---
 
-### 📡 Low-Cost RF Monitoring System (SDR)
+###  Low-Cost RF Monitoring System (SDR)
 Developed a signal monitoring platform using Software Defined Radio.
 
 **Technologies:**  
@@ -158,7 +162,7 @@ Enabled scalable RF monitoring for resource-limited environments.
 
 ---
 
-### ⛏️ Underground Mining Communication System
+###  Underground Mining Communication System
 Designed a hybrid communication system for deep underground environments.
 
 **Technologies:**  
@@ -171,36 +175,37 @@ C/C++ • MATLAB • Python • DSP
 
 ---
 
-## 🏗️ Current Focus
+##  Current Focus
 
-🔬 AI-powered infrastructure systems  
-📡 Telecommunications intelligence platforms  
-🧠 Real-time edge AI systems  
-🔐 Infrastructure monitoring & cybersecurity  
+ AI-powered infrastructure systems  
+ Telecommunications intelligence platforms  
+ Real-time edge AI systems  
+ Infrastructure monitoring & cybersecurity  
 
 ---
 
-## 🌍 Mission
+##  Mission
 
 To engineer **intelligent, scalable, and cost-effective technologies** that strengthen infrastructure, security, and digital transformation across Africa.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Deep Learning  
 - Reinforcement Learning  
 - Multi-Sensor Fusion Systems  
 - Distributed Edge AI  
-- AI for Telecommunications  
+- AI for Telecommunications
+- Modern Radar Technology (Software Engineering) 
 
 ---
 
-## 🤝 Let's Collaborate
+##  Let's Collaborate
 
 I am open to collaborating on:
 
-- AI & Machine Learning Projects  
+- AI  Machine Learning Projects  
 - Embedded Systems  
 - Telecommunications Systems  
 - Signal Processing  
@@ -208,7 +213,7 @@ I am open to collaborating on:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📧 Email: dushimeplacidepa@gmail.com  
 
@@ -223,10 +228,10 @@ https://www.kaggle.com/placidedushimerugaba
 
 ---
 
-## ⚡ Engineering Philosophy
+##  Engineering Philosophy
 
 **"High-impact engineering does not require expensive tools — it requires intelligent design."**
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+ *Thank you for visiting my GitHub profile!*
