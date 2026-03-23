@@ -1,8 +1,28 @@
 # Hello, I'm Eng. Placide Dushimerugaba
+![Profile Views](https://komarev.com/ghpvc/?username=placidepa&color=blue&style=for-the-badge)
 
  **Electronics and Telecommunications | Software in Modern Radar Technology | UAVs Systems Researcher | Machine Learning Engineer applications in airspace**  
 Building intelligent, low-cost, high-impact engineering systems for Africa  
 Focused on AI, Embedded Systems, Signal Processing, and Telecommunications  
+
+---
+
+## About Me
+
+I am an Electronics and Telecommunications Engineer passionate about designing **intelligent systems that solve real-world infrastructure challenges**.  
+
+My work focuses on combining **Artificial Intelligence, Embedded Systems, IoT, software for Modern Radar Technology, and Telecommunications** to develop scalable technologies for:
+
+- Airspace surveillance  
+- Telecommunications intelligence  
+- Infrastructure monitoring  
+- Cybersecurity and anomaly detection  
+- Smart and autonomous systems
+- Software Engineering in Modern Radar Technology
+- UAVs systems operating in both GPS-allowed and GPS-denied Environments
+- Mathematician specifically in above fields 
+
+I believe in **engineering solutions that are affordable, reliable, and locally deployable**, especially for developing regions.
 
 ##  Tech Stack
 
@@ -48,25 +68,6 @@ Focused on AI, Embedded Systems, Signal Processing, and Telecommunications
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-## About Me
-
-I am an Electronics and Telecommunications Engineer passionate about designing **intelligent systems that solve real-world infrastructure challenges**.  
-
-My work focuses on combining **Artificial Intelligence, Embedded Systems, IoT, software for Modern Radar Technology, and Telecommunications** to develop scalable technologies for:
-
-- Airspace surveillance  
-- Telecommunications intelligence  
-- Infrastructure monitoring  
-- Cybersecurity and anomaly detection  
-- Smart and autonomous systems
-- Software Engineering in Modern Radar Technology
-- UAVs systems operating in both GPS-allowed and GPS-denied Environments
-- Mathematician specifically in above fields 
-
-I believe in **engineering solutions that are affordable, reliable, and locally deployable**, especially for developing regions.
 
 ##  GitHub Stats
 
@@ -232,10 +233,11 @@ C/C++ • MATLAB • Python • DSP
 
 ##  Current Focus
 
+ Software Engineering in Modern Radar Technology
  AI-powered infrastructure systems  
  Telecommunications intelligence platforms  
  Real-time edge AI systems  
- Infrastructure monitoring & cybersecurity  
+ Infrastructure monitoring and cybersecurity  
 
 ---
 
