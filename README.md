@@ -70,7 +70,7 @@ I believe in **engineering solutions that are affordable, reliable, and locally 
 
 ##  GitHub Stats
 
-![Placide's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Placide's GitHub stats](https://github-readme-stats.vercel.app/api?username=placidepa&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=placidepa&layout=compact&theme=tokyonight)
 
