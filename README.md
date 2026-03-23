@@ -1,7 +1,12 @@
 # Hello, I'm Eng. Placide Dushimerugaba
-## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+ **Electronics and Telecommunications | Software in Modern Radar Technology | UAVs Systems Researcher | Machine Learning Engineer applications in airspace**  
+Building intelligent, low-cost, high-impact engineering systems for Africa  
+Focused on AI, Embedded Systems, Signal Processing, and Telecommunications  
+
+##  Tech Stack
+
+###  Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -11,7 +16,7 @@
 
 ---
 
-### 🤖 AI & Machine Learning
+###  AI and Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -20,7 +25,7 @@
 
 ---
 
-### 🔌 Embedded Systems
+###  Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -28,7 +33,7 @@
 
 ---
 
-### 📡 Telecommunications & Networking
+###  Telecommunications and Networking
 
 ![LoRa](https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
@@ -37,15 +42,12 @@
 
 ---
 
-### ☁️ Cloud & Tools
+###  Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
- **Electronics and Telecommunications | Software in Modern Radar Technology | UAVs Systems Researcher | Machine Learning Engineer applications in airspace**  
-Building intelligent, low-cost, high-impact engineering systems for Africa  
-Focused on AI, Embedded Systems, Signal Processing, and Telecommunications  
 
 ---
 
