@@ -1,294 +1,244 @@
 # Hello, I'm Eng. Placide Dushimerugaba
 ![Profile Views](https://komarev.com/ghpvc/?username=placidepa&color=blue&style=for-the-badge)
 
- **Electronics and Telecommunications | Software in Modern Radar Technology | UAVs Systems Researcher | Machine Learning Engineer applications in airspace**  
-Building intelligent, low-cost, high-impact engineering systems for Africa  
-Focused on AI, Embedded Systems, Signal Processing, and Telecommunications  
+**Electronics & Telecommunications Engineer | AI Systems Engineer | Embedded Systems & UAV Researcher | Software Engineer (Radar & Critical Infrastructure Systems)**  
+Building intelligent, low-cost, high-impact engineering systems for Africa and beyond  
+Focused on AI, Embedded Systems, Signal Processing, Telecommunications, and Autonomous Systems
 
 ---
 
 ## About Me
 
-I am an Electronics and Telecommunications Engineer passionate about designing **intelligent systems that solve real-world infrastructure challenges**.  
+I am an Electronics and Telecommunications Engineer specializing in **intelligent infrastructure systems, AI-driven automation, and embedded engineering solutions**.
 
-My work focuses on combining **Artificial Intelligence, Embedded Systems, IoT, software for Modern Radar Technology, and Telecommunications** to develop scalable technologies for:
+My work combines:
 
-- Airspace surveillance  
-- Telecommunications intelligence  
-- Infrastructure monitoring  
-- Cybersecurity and anomaly detection  
-- Smart and autonomous systems
-- Software Engineering in Modern Radar Technology
-- UAVs systems operating in both GPS-allowed and GPS-denied Environments
-- Mathematician specifically in above fields 
+- Artificial Intelligence & Machine Learning  
+- Embedded Systems & IoT  
+- Software-Defined Radio (SDR) & Signal Processing  
+- Telecommunications & Network Intelligence  
+- UAV systems (GPS-enabled and GPS-denied environments)  
+- Industrial automation & control systems  
+- Modern radar and airspace monitoring technologies  
 
-I believe in **engineering solutions that are affordable, reliable, and locally deployable**, especially for developing regions.
+I focus on building **scalable, affordable, and deployable engineering solutions for real-world infrastructure challenges**, especially in developing environments.
 
-##  Tech Stack
-
-###  Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ff7f00?style=for-the-badge&logo=Mathworks&logoColor=white)
+I have also authored a **technical book on PLC-based industrial automation systems**, and worked extensively on industrial and energy system automation projects.
 
 ---
 
-###  AI and Machine Learning
+## Core Expertise Areas
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### AI & Intelligent Systems
+- Deep Learning (CNN, RNN, LSTM, GRU)
+- Computer Vision (OpenCV)
+- Time-Series Forecasting
+- Anomaly Detection Systems
+- Edge AI deployment
 
----
+### Embedded & Hardware Systems
+- Microcontroller programming (Arduino, AVR)
+- Raspberry Pi & NVIDIA Jetson systems
+- Sensor integration (LiDAR, IR, optical, RF)
+- Real-time embedded system design
+- Industrial control systems (PLC)
 
-###  Embedded Systems
+### Telecommunications & Signal Processing
+- Digital Signal Processing (DSP)
+- SDR-based RF analysis and monitoring
+- LTE/5G network analysis
+- LoRa & MQTT communication systems
+- Frequency analysis and spectrum monitoring
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+### Software & Systems Engineering
+- Python backend systems
+- C / C++ low-level programming
+- MATLAB simulation systems
+- Linux-based system engineering
+- Distributed telemetry systems
 
----
-
-###  Telecommunications and Networking
-
-![LoRa](https://img.shields.io/badge/LoRa-00AEEF?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-###  Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-##  GitHub Stats
-
-![Placide's GitHub stats](https://github-readme-stats.vercel.app/api?username=placidepa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=placidepa&layout=compact&theme=tokyonight)
-
-##  GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=placidepa&theme=tokyonight)
-
----
-
-## Technical Interests
-
-- Artificial Intelligence and Machine Learning  
-- Embedded Systems and Edge Computing  
-- Software Defined Radio (SDR)  
-- Signal Processing (DSP)  
-- Telecommunications Systems  
-- Infrastructure Security  
-- IoT and Cloud Integration  
-- Autonomous Monitoring Systems  
+### Cloud & IoT Systems
+- AWS IoT Core
+- Google Cloud Functions
+- MQTT-based IoT architectures
+- Real-time monitoring dashboards
+- Edge-cloud hybrid systems
 
 ---
 
 ## Tech Stack
 
 ### Programming Languages
+Python • C • C++ • Java • MATLAB • SQL • Assembly-level/Registers Programming
 
-- Python  
-- C  
-- C++  
-- Java  
-- MATLAB  
-- SQL
-- Register-level Programming 
+### AI / ML
+PyTorch • TensorFlow • Scikit-learn • OpenCV • Deep Learning Models • Predictive Analytics
 
-### AI and Machine Learning
+### Embedded Systems
+Arduino • Raspberry Pi • NVIDIA Jetson (Nano & AGX Orin) • AVR Microcontrollers • PLC Systems
 
-- PyTorch  
-- TensorFlow  
-- Scikit-learn  
-- CNN, RNN, LSTM, GRU  
-- Computer Vision (OpenCV)  
-- Deep Learning  
-- Time-Series Forecasting  
+### Telecommunications
+DSP • SDR (Software Defined Radio) • RF Systems • LoRa • MQTT • LTE/5G Analysis
 
-### Embedded Systems & Hardware
+### Cloud & DevOps
+AWS • Google Cloud • Linux • Git/GitHub • Grafana • SQLite
 
-- Arduino  
-- Raspberry Pi  
-- NVIDIA Jetson (Nano & AGX Orin)  
-- AVR Microcontrollers  
-- LiDAR Sensors  
-- Infrared Sensors  
-- Optical Sensors  
-- Software Defined Radio (SDR)
-
-### Telecommunications and Networking
-
-- Digital Communications  
-- Signal Processing (DSP)  
-- Frequency Hopping Spread Spectrum (FHSS)  
-- LoRa Communication  
-- MQTT Protocol  
-- LTE/5G Network Analysis  
-- RF Signal Monitoring  
-
-### Cloud and IoT
-
-- AWS IoT Core  
-- Google Cloud Functions  
-- MQTT Systems  
-- Real-time Telemetry  
-- Edge Computing Systems  
-
-###  Data and Visualization
-
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Streamlit  
-- Tkinter  
-
-###  Tools and Platforms
-
-- Git and GitHub  
-- Linux  
-- Wireshark  
-- Grafana  
-- SQLite  
+### Data & Visualization
+NumPy • Pandas • Matplotlib • Streamlit • Tkinter
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  AI-Based Airspace Surveillance System
-Designed a multi-sensor drone detection and classification system using AI and SDR technology.
+### AI-Based Airspace Surveillance System
+AI-powered drone detection and classification system using SDR and deep learning.
 
-**Key Features:**
-- CNN-based drone detection  
-- Real-time signal analysis  
-- Multi-sensor fusion  
-- Low-cost SDR architecture  
+- CNN-based detection models  
+- Multi-sensor fusion architecture  
+- Real-time RF signal analysis  
+- Low-cost SDR implementation  
 
-**Impact:**  
-Demonstrated how a **$400 SDR system can replace a $25,000 RF sensor**.
+**Impact:** Demonstrated a $400 SDR system capable of replacing $25,000+ RF surveillance hardware.
 
 ---
 
-###  Smart Fire Detection System (Edge AI)
-Developed a real-time fire and smoke detection system using deep learning and IoT.
+### Smart Electrical Substation Monitoring Platform
+AI-powered monitoring system for electrical substations.
 
-**Technologies:**  
-Python • CNN • OpenCV • Raspberry Pi • IoT  
-
-**Features:**
-- Real-time detection  
-- SMS alert system  
-- IoT dashboard monitoring  
-- Edge-based inference  
+- Real-time fault detection  
+- Predictive maintenance models  
+- IoT sensor integration  
+- SCADA-style visualization layer  
 
 ---
 
-###  AI-Powered Network Anomaly Detection
-Built a machine learning system to detect abnormal behavior in network traffic.
+### Industrial Boiler & Gas Distribution Automation System
+Industrial-grade automation and control system.
 
-**Technologies:**  
-Python • LSTM • GRU • Telemetry Pipelines  
-
-**Features:**
-- Sequential anomaly detection  
-- Real-time monitoring  
-- Dashboard visualization  
+- PLC-based control logic  
+- Gas flow monitoring & safety automation  
+- Sensor-driven feedback loops  
+- Emergency shutdown protocols  
 
 ---
 
-###  Low-Cost RF Monitoring System (SDR)
-Developed a signal monitoring platform using Software Defined Radio.
+### Smart Energy Monitoring & Predictive Maintenance System
+AI-driven energy optimization platform.
 
-**Technologies:**  
-DSP • SDR • Python • Signal Filtering  
-
-**Impact:**  
-Enabled scalable RF monitoring for resource-limited environments.
+- Power consumption analytics  
+- Predictive maintenance algorithms  
+- Real-time monitoring dashboard  
+- Industrial IoT integration  
 
 ---
 
-###  Underground Mining Communication System
-Designed a hybrid communication system for deep underground environments.
+### AI-Powered Network Anomaly Detection System
+Machine learning system for detecting abnormal network behavior.
 
-**Technologies:**  
-C/C++ • MATLAB • Python • DSP  
+- LSTM/GRU-based sequence modeling  
+- Real-time telemetry analysis  
+- Network intrusion detection  
+- Visualization dashboard  
 
-**Features:**
+---
+
+### Low-Cost RF Monitoring System (SDR)
+Signal intelligence platform using SDR technology.
+
+- Spectrum monitoring  
+- Signal filtering and classification  
+- Lightweight embedded deployment  
+- Remote RF analytics  
+
+---
+
+### Underground Mining Communication System
+Robust communication system for GPS-denied environments.
+
 - Acoustic signal transmission  
 - Noise filtering algorithms  
-- Reliable underground communication  
+- MATLAB-based modeling  
+- Reliable underground communication design  
 
 ---
 
-##  Current Focus
+## Technical Interests
 
- Software Engineering in Modern Radar Technology
- AI-powered infrastructure systems  
- Telecommunications intelligence platforms  
- Real-time edge AI systems  
- Infrastructure monitoring and cybersecurity  
-
----
-
-##  Mission
-
-To engineer **intelligent, scalable, and cost-effective technologies** that strengthen infrastructure, security, and digital transformation across Africa.
+- Artificial Intelligence in infrastructure systems  
+- Modern radar and airspace monitoring  
+- UAV autonomous navigation systems  
+- Industrial automation & PLC systems  
+- Signal intelligence (SIGINT)  
+- Cybersecurity & anomaly detection  
+- Edge computing systems  
 
 ---
 
-##  Currently Learning
+## Current Focus
 
-- Advanced Deep Learning  
+- Software Engineering for Modern Radar Systems  
+- AI-powered infrastructure intelligence platforms  
+- UAV autonomy in GPS-denied environments  
+- Industrial IoT & predictive maintenance systems  
+- Advanced multi-sensor fusion systems  
+
+---
+
+## Currently Learning
+
 - Reinforcement Learning  
-- Multi-Sensor Fusion Systems  
-- Distributed Edge AI  
-- AI for Telecommunications
-- Modern Radar Technology (Software Engineering) 
+- Advanced Deep Learning Architectures  
+- Multi-sensor fusion systems  
+- Distributed edge AI systems  
+- Next-generation radar signal processing  
+- Autonomous UAV navigation algorithms  
 
 ---
 
-##  Let's Collaborate
+## Mission
 
-I am open to collaborating on:
-
-- AI  Machine Learning Projects  
-- Embedded Systems  
-- Telecommunications Systems  
-- Signal Processing  
-- Infrastructure Monitoring Systems  
+To engineer **intelligent, scalable, and cost-effective technologies** that improve infrastructure resilience, security, and automation across Africa and globally.
 
 ---
 
-##  Connect With Me
+## Publications & Experience
+
+- Author: PLC-Based Industrial Automation Systems (Technical Book)  
+- Industrial automation and control systems developer  
+- Embedded systems and RF engineering practitioner  
+- AI systems designer for infrastructure monitoring  
+
+---
+
+## Let's Collaborate
+
+I am open to collaborations in:
+
+- AI & Machine Learning systems  
+- Embedded systems & IoT  
+- Telecommunications & RF systems  
+- Industrial automation & PLC systems  
+- UAV & autonomous systems  
+- Infrastructure monitoring solutions  
+
+---
+
+## Connect With Me
 
 📧 Email: dushimeplacidepa@gmail.com  
 
-🌐 Portfolio:  
-https://placidehope.vercel.app/
+🌐 Portfolio: https://placidehope.vercel.app/  
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/placide-dushimerugaba-652b343a6
+🔗 LinkedIn: https://www.linkedin.com/in/placide-dushimerugaba-652b343a6  
 
-📊 Kaggle:  
-https://www.kaggle.com/placidedushimerugaba
+📊 Kaggle: https://www.kaggle.com/placidedushimerugaba  
 
 ---
 
-##  Engineering Philosophy
+## Engineering Philosophy
 
-**"High-impact engineering does not require expensive tools — it requires intelligent design."**
+> "High-impact engineering does not require expensive tools — it requires intelligent design."
 
 ---
 
- *Thank you for visiting my GitHub profile!*
+*Thank you for visiting my GitHub profile.*
