@@ -1,4 +1,4 @@
-# Hi there, I'm Placide Dushimerugaba 👋
+# Hi there, I'm Placide 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PlacideDushimerugaba&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
