@@ -86,15 +86,6 @@ Machine Learning Engineering
 - SQL
 - Git & GitHub
 
-### Artificial Intelligence & Machine Learning
-
-- Machine Learning Fundamentals
-- Computer Vision
-- OpenCV
-- TensorFlow
-- PyTorch
-- Scikit-learn
-
 ### AI Data Operations
 
 - Image Annotation
