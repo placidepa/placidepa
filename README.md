@@ -1,7 +1,7 @@
 # Hello, I'm Eng. Placide Dushimerugaba
 ![Profile Views](https://komarev.com/ghpvc/?username=placidepa&color=blue&style=for-the-badge)
 
-**Electronics & Telecommunications Engineer | AI Systems Engineer | Embedded Systems & UAV Researcher | Software Engineer (Radar & Critical Infrastructure Systems)**  
+**Electronics & Telecommunications Engineer | Aspiring ML Data Engineer | Electronics and Electrical Systems |  SmartFix P-Tech Solutions Ltd | Upcoming graduate of the University of Rwanda, College of Science and Technology**  
 Building intelligent, low-cost, high-impact engineering systems for Africa and beyond  
 Focused on AI, Embedded Systems, Signal Processing, Telecommunications, and Autonomous Systems
 
